@@ -1,0 +1,119 @@
+@charset "utf-8";
+.container-fluid {
+}
+.container-fluid {
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(11,10,10,1.00) 0%,rgba(248,241,241,1.00) 18.45%,rgba(250,246,246,1.00) 47.46%,rgba(250,245,245,1.00) 79.38%,rgba(10,9,9,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(11,10,10,1.00) 0%,rgba(248,241,241,1.00) 18.45%,rgba(250,246,246,1.00) 47.46%,rgba(250,245,245,1.00) 79.38%,rgba(10,9,9,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(11,10,10,1.00) 0%,rgba(248,241,241,1.00) 18.45%,rgba(250,246,246,1.00) 47.46%,rgba(250,245,245,1.00) 79.38%,rgba(10,9,9,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(11,10,10,1.00) 0%,rgba(248,241,241,1.00) 18.45%,rgba(250,246,246,1.00) 47.46%,rgba(250,245,245,1.00) 79.38%,rgba(10,9,9,1.00) 100%);
+    background-color: #EFF5EF;
+}
+.container .row .col-lg-6 {
+    color: #F1B70C;
+}
+#headingOne1 .mb-0 a {
+    background-color: #0F0101;
+    color: #EA8915;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #0E0101;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #070101;
+    color: #DA9507;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #DE9010;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #160505;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #DD830B;
+}
+
+
+
+
+
+
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(5,4,4,1.00) 0%,rgba(245,234,234,1.00) 20.93%,rgba(247,239,239,1.00) 79.38%,rgba(9,8,8,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(5,4,4,1.00) 0%,rgba(245,234,234,1.00) 20.93%,rgba(247,239,239,1.00) 79.38%,rgba(9,8,8,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(5,4,4,1.00) 0%,rgba(245,234,234,1.00) 20.93%,rgba(247,239,239,1.00) 79.38%,rgba(9,8,8,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(5,4,4,1.00) 0%,rgba(245,234,234,1.00) 20.93%,rgba(247,239,239,1.00) 79.38%,rgba(9,8,8,1.00) 100.00%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(12,12,12,1.00) 0%,rgba(63,63,63,1.00) 51.61%,rgba(12,12,12,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(12,12,12,1.00) 0%,rgba(63,63,63,1.00) 51.61%,rgba(12,12,12,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(12,12,12,1.00) 0%,rgba(63,63,63,1.00) 51.61%,rgba(12,12,12,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(12,12,12,1.00) 0%,rgba(63,63,63,1.00) 51.61%,rgba(12,12,12,1.00) 100.00%,rgba(255,0,0,1.00) 100.00%);
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-dark.textcl1 {
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-dark.textcl1 {
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-dark.textcl1 {
+}
+
+
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(12,11,11,1.00) 0%,rgba(32,32,32,1.00) 50.36%,rgba(5,5,5,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(12,11,11,1.00) 0%,rgba(32,32,32,1.00) 50.36%,rgba(5,5,5,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(12,11,11,1.00) 0%,rgba(32,32,32,1.00) 50.36%,rgba(5,5,5,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(12,11,11,1.00) 0%,rgba(32,32,32,1.00) 50.36%,rgba(5,5,5,1.00) 100.00%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    background-image: -webkit-linear-gradient(270deg,rgba(232,170,11,1.00) 0%,rgba(11,10,10,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(232,170,11,1.00) 0%,rgba(11,10,10,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(232,170,11,1.00) 0%,rgba(11,10,10,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(232,170,11,1.00) 0%,rgba(11,10,10,1.00) 100.00%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    background-image: -webkit-linear-gradient(270deg,rgba(26,25,22,1.00) 0%,rgba(227,141,28,1.00) 44.56%,rgba(15,14,14,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(26,25,22,1.00) 0%,rgba(227,141,28,1.00) 44.56%,rgba(15,14,14,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(26,25,22,1.00) 0%,rgba(227,141,28,1.00) 44.56%,rgba(15,14,14,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(26,25,22,1.00) 0%,rgba(227,141,28,1.00) 44.56%,rgba(15,14,14,1.00) 100.00%);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #E78F0D;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    background-image: -webkit-linear-gradient(270deg,rgba(24,21,21,1.00) 0%,rgba(39,38,38,1.00) 27.15%,rgba(17,12,12,1.00) 45.39%,rgba(27,21,21,1.00) 68.19%,rgba(24,23,23,1.00) 68.19%,rgba(32,31,31,1.00) 79.79%,rgba(21,12,12,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(24,21,21,1.00) 0%,rgba(39,38,38,1.00) 27.15%,rgba(17,12,12,1.00) 45.39%,rgba(27,21,21,1.00) 68.19%,rgba(24,23,23,1.00) 68.19%,rgba(32,31,31,1.00) 79.79%,rgba(21,12,12,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(24,21,21,1.00) 0%,rgba(39,38,38,1.00) 27.15%,rgba(17,12,12,1.00) 45.39%,rgba(27,21,21,1.00) 68.19%,rgba(24,23,23,1.00) 68.19%,rgba(32,31,31,1.00) 79.79%,rgba(21,12,12,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(24,21,21,1.00) 0%,rgba(39,38,38,1.00) 27.15%,rgba(17,12,12,1.00) 45.39%,rgba(27,21,21,1.00) 68.19%,rgba(24,23,23,1.00) 68.19%,rgba(32,31,31,1.00) 79.79%,rgba(21,12,12,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #EFA50F;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 47.88%,rgba(0,0,0,1.00) 66.11%,rgba(0,0,0,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 47.88%,rgba(0,0,0,1.00) 66.11%,rgba(0,0,0,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 47.88%,rgba(0,0,0,1.00) 66.11%,rgba(0,0,0,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 47.88%,rgba(0,0,0,1.00) 66.11%,rgba(0,0,0,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+.textcl1 {
+    color: #FF0004;
+}
+
+.textcl1 {
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-dark.textcl1 {
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-dark.textcl1 {
+}
+.container-fluid {
+}
+.container-fluid {
+}
+.container-fluid {
+    background-color: #222121;
+}
+.container {
+}
+
+.container-fluid {
+}
